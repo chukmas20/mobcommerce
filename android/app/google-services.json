@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845517394818",
+    "project_id": "mobcom-46ee6",
+    "storage_bucket": "mobcom-46ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845517394818:android:e072477aae1752fdb5b59b",
+        "android_client_info": {
+          "package_name": "com.example.mobcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845517394818-p836q1hii98cbptbi9gi44706trp27b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBD4qEjQzHPIqGUIKQXqZF0c2HB_t46LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845517394818-p836q1hii98cbptbi9gi44706trp27b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
